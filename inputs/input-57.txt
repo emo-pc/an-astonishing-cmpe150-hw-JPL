@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+Bj wa moji-retsu de aru .
+Bj no atai wa 2 kakeru 2 kakeru -Joining- de aru .
+kaikakko 2 kakeru Bj tojikakko o print suru .
+t wa seisu de aru .
+Bj no atai wa kaikakko Bj tojikakko de aru .
+48,8772,8555 kakeru 2 tasu kaikakko 3 tojikakko o print suru .
+P wa seisu de aru .
+t no atai wa 91,6190,3587 de aru .
+t o print suru .
+CR wa seisu de aru .
+CR no atai wa kaikakko 1 tojikakko de aru .
+Bj o print suru .
+l wa moji-retsu de aru .
+P no atai wa 1 kakeru kaikakko 2 tojikakko kakeru CR kakeru 76,0018,6837 tasu 2 tasu 1 kakeru 1 kakeru 1 kakeru 63,0151,2048 kakeru 1 kakeru 2 tasu kaikakko CR tojikakko de aru .
+kaikakko -the- tasu -Boğaziçi- tasu -University- tojikakko o print suru .
+Puroguramu o oware .

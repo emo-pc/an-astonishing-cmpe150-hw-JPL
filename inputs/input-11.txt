@@ -1,0 +1,12 @@
+Puroguramu o hajimeyo .
+-Joining- o print suru .
+kaikakko 2 kakeru -Boğaziçi- tojikakko o print suru .
+2 kakeru kaikakko -Computer- tojikakko tasu 2 kakeru kaikakko -Engineering- tasu -Department- tasu 2 kakeru -means- tasu -becoming- tasu -a- tojikakko o print suru .
+2 kakeru kaikakko 2 kakeru 2 kakeru -part- tasu -of- tasu 2 kakeru -one- tasu -of- tasu 2 kakeru 2 kakeru 2 kakeru -the- tasu -most- tasu 2 kakeru -prestigious- tojikakko o print suru .
+2 kakeru kaikakko -in- tojikakko tasu -Turkey.- o print suru .
+-department- o print suru .
+1,0000 kakeru 2 kakeru -will- o print suru .
+-you- o print suru .
+kaikakko -a- tojikakko o print suru .
+-career- tasu -in- o print suru .
+Puroguramu o oware .

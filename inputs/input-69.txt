@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+uL wa seisu de aru .
+uL no atai wa 13,5404,2038 de aru .
+2 o print suru .
+MG wa moji-retsu de aru .
+uL no atai wa uL de aru .
+-Joining- o print suru .
+f wa seisu de aru .
+uL no atai wa 3 de aru .
+2 kakeru -the- o print suru .
+ve wa moji-retsu de aru .
+ve no atai wa -Boğaziçi- tasu -University- tasu kaikakko -Computer- tojikakko tasu -Engineering- tasu 2 kakeru kaikakko 2 kakeru -Department- tojikakko tasu kaikakko 2 kakeru 2 kakeru -means- tojikakko tasu -becoming- tasu 2 kakeru kaikakko 2 kakeru -a- tojikakko tasu kaikakko 2 kakeru 2 kakeru -part- tojikakko tasu 2 kakeru -of- tasu 2 kakeru 2 kakeru kaikakko -one- tojikakko tasu -of- de aru .
+ve o print suru .
+Pe wa moji-retsu de aru .
+Pe no atai wa -the- de aru .
+-most- o print suru .
+Puroguramu o oware .

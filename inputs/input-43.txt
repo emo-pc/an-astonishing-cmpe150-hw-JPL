@@ -1,0 +1,32 @@
+Puroguramu o hajimeyo .
+j wa moji-retsu de aru .
+q wa seisu de aru .
+w wa moji-retsu de aru .
+f wa moji-retsu de aru .
+E wa moji-retsu de aru .
+sF wa moji-retsu de aru .
+fP wa seisu de aru .
+i wa moji-retsu de aru .
+F wa seisu de aru .
+Ww wa moji-retsu de aru .
+Ww no atai wa kaikakko 2 kakeru -Joining- tasu -the- tasu -Boğaziçi- tojikakko de aru .
+F no atai wa 3 de aru .
+sF no atai wa -University- de aru .
+Ww no atai wa 2 kakeru 2 kakeru Ww tasu 2 kakeru kaikakko 2 kakeru -Computer- tojikakko tasu -Engineering- tasu 2 kakeru kaikakko -Department- tojikakko tasu -means- tasu 2 kakeru -becoming- de aru .
+Ww no atai wa kaikakko 2 kakeru 2 kakeru -a- tasu 2 kakeru 2 kakeru 2 kakeru 2 kakeru -part- tojikakko de aru .
+q no atai wa F de aru .
+f no atai wa 2 kakeru -of- de aru .
+w no atai wa kaikakko sF tojikakko de aru .
+E no atai wa 2 kakeru kaikakko 2 kakeru -one- tojikakko tasu -of- tasu -the- tasu 2 kakeru 2 kakeru 2 kakeru 2 kakeru f tasu w tasu kaikakko -most- tojikakko tasu w tasu Ww de aru .
+w no atai wa kaikakko 2 kakeru -prestigious- tasu 2 kakeru 2 kakeru -and- tojikakko de aru .
+46,7057,8429 kakeru 66,2263,2447 o print suru .
+2 kakeru E o print suru .
+2 kakeru kaikakko -respected- tojikakko o print suru .
+66,9116,5696 tasu q o print suru .
+3 o print suru .
+kaikakko -academic- tasu 2 kakeru -families- tasu E tasu w tojikakko o print suru .
+2 kakeru -in- tasu 2 kakeru kaikakko 2 kakeru -Turkey.- tasu w tasu -This- tasu Ww tasu 2 kakeru Ww tasu -department- tojikakko o print suru .
+-will- o print suru .
+q o print suru .
+2 kakeru kaikakko -prepare- tojikakko o print suru .
+Puroguramu o oware .
