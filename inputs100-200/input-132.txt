@@ -1,0 +1,11 @@
+Puroguramu o hajimeyo .
+t wa seisu de aru .
+t no atai wa kaikakko 80,4853,0712 tojikakko de aru .
+kaikakko t tojikakko o print suru .
+on wa moji-retsu de aru .
+on no atai wa 27,1111,7087 de aru .
+kaikakko 2 kakeru 2 kakeru -Joining- tasu -the- tojikakko tasu -Boğaziçi- tasu -University- tasu -Computer- o print suru .
+F wa moji-retsu de aru .
+on no atai wa 2 de aru .
+-Engineering- o print suru .
+Puroguramu o oware .
