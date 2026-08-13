@@ -1,16 +1,16 @@
-# 🇯🇵 Japanese Programming Language (JPL) — Compiler & Interpreter Engine
+# 🇯🇵 JPL (Japanese Programming Language) — Custom Compiler & Virtual Machine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Compiler Architecture](https://img.shields.io/badge/Domain-Compiler_Design-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Zero Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=for-the-badge)
 
-A complete 2-stage custom compiler, abstract syntax tree (AST) generator, and runtime execution engine built from scratch in Python for a domain-specific language called **Japanese Programming Language (JPL)**. Developed for **Boğaziçi University CMPE 150**.
+A fully functional 2-stage compiler and execution engine built from scratch in Python for **JPL (Japanese Programming Language)**. Developed for **Boğaziçi University CMPE 150**.
 
-The project is implemented under strict zero-dependency constraints (built purely using native control flow, file I/O, dictionaries, and `pickle` serialization without external libraries, `eval()`, or regular expressions).
+This project was developed under **extreme technical constraints**: No `eval()` functions, no Regular Expressions (regex), no `try...except` blocks, and no external parsing libraries. The entire lexical analysis, syntax parsing, Abstract Syntax Tree (AST) evaluation, and binary serialization were built using only primitive Python control structures.
 
 ---
 
-## 🏗️ System Architecture & Execution Pipeline
+## 🏗️ System Architecture: Under the Hood
 
 The tool operates via a two-step command-line interface:
 
@@ -48,20 +48,6 @@ The tool operates via a two-step command-line interface:
   | Output File (.txt)    |  <-- Flushes output or raises Runtime Exception
   +-----------------------+
 ```
-# 🇯🇵 JPL (Japanese Programming Language) — Custom Compiler & Virtual Machine
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Compiler Architecture](https://img.shields.io/badge/Domain-Compiler_Design-orange?style=for-the-badge)
-![Zero Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=for-the-badge)
-
-A fully functional 2-stage compiler and execution engine built from scratch in Python for **JPL (Japanese Programming Language)**. Developed for **Boğaziçi University CMPE 150**.
-
-This project was developed under **extreme technical constraints**: No `eval()` functions, no Regular Expressions (regex), no `try...except` blocks, and no external parsing libraries. The entire lexical analysis, syntax parsing, Abstract Syntax Tree (AST) evaluation, and binary serialization were built using only primitive Python control structures.
-
----
-
-## 🏗️ System Architecture: Under the Hood
-
 The engine operates in two isolated phases, communicating via a serialized binary object (`.obj`):
 
 ### Phase 1: The Compiler (`-compile`)
@@ -108,15 +94,6 @@ The compiler enforces strict 4-digit boundary checks for integers, mirroring tra
 
 ---
 
-## 💻 Code Example & Execution
-
-**`input.jpl`**
-```jpl
-Puroguramu o hajimeyo .
-str wa moji-retsu de aru .
-str no atai wa 3 kakeru kaikakko -hello- tasu -world- tojikakko de aru .
-str o print suru .
-Puroguramu o oware .
 ## 🚀 How to Run Locally
 
 ### Prerequisites
