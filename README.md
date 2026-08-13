@@ -47,3 +47,25 @@ The tool operates via a two-step command-line interface:
   +-----------------------+
   | Output File (.txt)    |  <-- Flushes output or raises Runtime Exception
   +-----------------------+
+```
+## 🚀 How to Run Locally
+
+### Prerequisites
+- Python 3.10 or higher installed on your system.
+
+### Execution
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/emo-pc/jpl-compiler.git](https://github.com/emo-pc/an-astonishing-cmpe150-hw-JPL.git)
+   cd an-astonishing-cmpe150-hw-JPL
+   ```
+
+2. **Compile a JPL Source File:**
+   ```bash
+   python3 hw5.py -compile input.txt object.obj
+   ```
+
+3. **Execute the Compiled Object:**
+   ```bash
+   python3 hw5.py -execute object.obj output.txt
+   ```
