@@ -1,28 +1,49 @@
-# 🇯🇵 Japanese Programming Language (JPL) — Compiler & Executor
+# 🇯🇵 Japanese Programming Language (JPL) — Compiler & Interpreter Engine
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Compiler](https://img.shields.io/badge/Domain-Compiler_Design-orange?style=for-the-badge)
+![Compiler Architecture](https://img.shields.io/badge/Domain-Compiler_Design-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-A 2-stage custom compiler and execution engine built from scratch in Python for a specialized domain-specific language called **Japanese Programming Language (JPL)**. Developed for **Boğaziçi University CMPE 150**.
+A complete 2-stage custom compiler, abstract syntax tree (AST) generator, and runtime execution engine built from scratch in Python for a domain-specific language called **Japanese Programming Language (JPL)**. Developed for **Boğaziçi University CMPE 150**.
 
-The system performs sequential lexical/syntax analysis, custom 4-digit numeric formatting validation (Japanese 万 $10^4$ and 億 $10^8$ comma grouping), expression AST generation, binary intermediate code generation (`pickle`), and runtime execution.
+The project is implemented under strict zero-dependency constraints (built purely using native control flow, file I/O, dictionaries, and `pickle` serialization without external libraries, `eval()`, or regular expressions).
 
 ---
 
-## 🏗️ Architectural Overview
+## 🏗️ System Architecture & Execution Pipeline
 
-The program operates via command-line arguments in two distinct stages:
+The tool operates via a two-step command-line interface:
 
 ```text
-┌────────────────┐     -compile      ┌────────────────┐
-│  Source Code   │ ────────────────► │ Binary Object  │ (*.obj)
-│   (*.jpl)      │                   │   (Pickled)    │
-└────────────────┘                   └────────────────┘
-                                             │
-                                             │ -execute
-                                             ▼
-                                     ┌────────────────┐
-                                     │ Program Output │ (*.txt)
-                                     │  / Exceptions  │
-                                     └────────────────┘
+  +-----------------------+
+  |   Source Code (.jpl)  |
+  +-----------------------+
+              |
+              |  -compile <input.jpl> <obj-file>
+              v
+  +-----------------------+
+  |   Lexical Analysis    |  <-- Verifies tokens, 10-char variable limits, spaces
+  +-----------------------+
+              |
+              |  Syntax & Semantic Verification
+              v
+  +-----------------------+
+  | Intermediate Code Gen |  <-- Evaluates type matching & 4-digit number formats
+  +-----------------------+
+              |
+              |  Serializes binary payload via pickle
+              v
+  +-----------------------+
+  |   Binary Object File  |  (*.obj)
+  +-----------------------+
+              |
+              |  -execute <obj-file> <output.txt>
+              v
+  +-----------------------+
+  |  Runtime Executer     |  <-- Computes operations & checks overflow limits
+  +-----------------------+
+              |
+              v
+  +-----------------------+
+  | Output File (.txt)    |  <-- Flushes output or raises Runtime Exception
+  +-----------------------+
