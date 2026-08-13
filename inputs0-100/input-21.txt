@@ -1,0 +1,12 @@
+Puroguramu o hajimeyo .
+-Boğaziçi- o print suru .
+kaikakko 2 kakeru 2 kakeru -University- tasu 2 kakeru -Computer- tasu -Engineering- tojikakko tasu -Department- o print suru .
+-becoming- o print suru .
+2 kakeru 2 kakeru -a- o print suru .
+-of- o print suru .
+-one- o print suru .
+kaikakko 2 kakeru 2 kakeru -the- tojikakko o print suru .
+-most- o print suru .
+2 kakeru -prestigious- o print suru .
+-respected- o print suru .
+Puroguramu o oware .

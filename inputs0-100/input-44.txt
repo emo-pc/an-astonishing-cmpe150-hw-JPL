@@ -1,0 +1,32 @@
+Puroguramu o hajimeyo .
+dw wa moji-retsu de aru .
+R wa seisu de aru .
+N wa seisu de aru .
+m wa moji-retsu de aru .
+D wa moji-retsu de aru .
+h wa moji-retsu de aru .
+ig wa seisu de aru .
+df wa moji-retsu de aru .
+W wa moji-retsu de aru .
+B wa moji-retsu de aru .
+dw o print suru .
+kaikakko 77,4039,1804 tojikakko o print suru .
+kaikakko R tojikakko o print suru .
+R no atai wa kaikakko 98,8906,6699 kakeru 61,2502,5459 tasu 14,1542,5055 kakeru 99,9991,9550 tasu 46,7096,1696 tojikakko de aru .
+R no atai wa 1 tasu 3 de aru .
+h no atai wa -Joining- de aru .
+W no atai wa 2 kakeru kaikakko 2 kakeru -the- tojikakko de aru .
+h no atai wa h de aru .
+W no atai wa 2 kakeru 2 kakeru -Boğaziçi- de aru .
+dw no atai wa -University- de aru .
+m no atai wa kaikakko -Computer- tojikakko de aru .
+W no atai wa -Engineering- de aru .
+B no atai wa kaikakko m tojikakko de aru .
+kaikakko -Department- tasu -means- tojikakko o print suru .
+kaikakko 2 kakeru 2 kakeru h tasu 2 kakeru 2 kakeru 2 kakeru -becoming- tasu -a- tasu -part- tasu -of- tojikakko tasu kaikakko -one- tojikakko o print suru .
+kaikakko 91,2704,4015 kakeru 2 tojikakko o print suru .
+2 kakeru -of- tasu kaikakko 2 kakeru 2 kakeru m tasu 2 kakeru -the- tasu -most- tasu 2 kakeru -prestigious- tasu 2 kakeru -and- tasu -respected- tasu -academic- tasu W tasu 2 kakeru 2 kakeru -families- tasu B tasu h tasu W tasu 2 kakeru m tasu 2 kakeru -in- tasu -Turkey.- tojikakko tasu m o print suru .
+2 kakeru 2 kakeru 2 kakeru 2 kakeru 2 kakeru h tasu W tasu -This- o print suru .
+kaikakko 2 kakeru m tasu -department- tasu 2 kakeru -will- tasu m tasu 2 kakeru -prepare- tasu dw tasu -you- tasu B tasu dw tasu 2 kakeru -for- tojikakko o print suru .
+h o print suru .
+Puroguramu o oware .

@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+K wa seisu de aru .
+K no atai wa 36,3099,7872 de aru .
+kaikakko 1 kakeru K tojikakko o print suru .
+aE wa moji-retsu de aru .
+aE no atai wa -Joining- tasu kaikakko 2 kakeru 2 kakeru -the- tojikakko de aru .
+aE o print suru .
+H wa seisu de aru .
+K no atai wa 18,4829,4491 de aru .
+K tasu kaikakko 73,7557,4690 tojikakko kakeru 2 kakeru 18,3925,6319 tasu 70,7640,5839 kakeru K kakeru K kakeru 54,6686,0844 kakeru 2 kakeru 22,7991,5861 kakeru 5,6141,2038 o print suru .
+ee wa seisu de aru .
+ee no atai wa 33,7687,0610 tasu kaikakko 86,4818,9172 kakeru K kakeru K kakeru K kakeru 2 kakeru K kakeru 2 kakeru 1,8580,4775 tasu K tasu 2 kakeru 2 tasu K kakeru K tasu K kakeru 3 kakeru K kakeru 62,3558,8903 tasu K tasu K kakeru 2 tasu K kakeru 2 tasu 3 tasu 2 tasu 2 kakeru 36,7896,9607 tasu K tasu 1 tasu 1 tasu 1 kakeru 2 tasu 3 kakeru 2 tasu 61,4322,8703 kakeru 26,8755,1225 tasu 44,3016,7895 kakeru K kakeru 12,0172,4377 tasu K kakeru 3 tasu 2 tasu K kakeru 3,1022,3180 kakeru K kakeru 3 kakeru 17,9571,1863 kakeru 82,3849,4550 kakeru 3 tasu 6572,5027 tasu K tasu 38,2141,7604 tasu 2 tasu 2 tasu 2 kakeru 34,9338,0844 kakeru 3 kakeru 2 kakeru 3 tasu K tasu 66,7198,4406 kakeru 1 kakeru 94,8782,1694 kakeru 97,5566,2949 kakeru 2 kakeru K tasu K tasu 12,4433,7836 kakeru 7,2207,4323 tasu K tasu 34,4380,9400 tasu 1 kakeru 3 tasu 2 tasu 68,6866,1784 kakeru 42,1950,8924 tasu 1 tasu K kakeru K tasu 36,3498,2237 kakeru 1 kakeru 17,5609,8780 kakeru 46,6241,7515 tasu 57,8722,0831 tasu K tasu K tasu K tasu 1 kakeru 55,4435,1983 tasu K tasu 2 tasu 39,4089,8361 tasu 3 tasu K kakeru 2 kakeru K tasu 55,1396,1502 tasu 2 tasu 44,9987,0255 tasu 49,7076,7842 kakeru 2 tasu 3 kakeru 76,0182,9608 tasu 1 tasu 12,2834,5365 tasu 2 tasu 2 tasu 54,9090,5544 kakeru K tasu 76,4678,0418 tasu 13,2268,8039 kakeru 1 tasu 1 kakeru 48,9570,0763 tasu K kakeru 5,3888,0132 tasu 2 tasu K tasu 89,1107,5383 kakeru 2 kakeru K tasu 2 tasu 24,9840,1897 kakeru 42,5498,9259 tasu 3 tasu 49,9680,1268 kakeru K tasu 2 tasu 2 tasu 2 tasu K tasu K kakeru 26,5003,0345 kakeru 35,1828,3140 tasu 1 kakeru 71,4960,8068 tasu 1 kakeru 3 tasu K kakeru K kakeru 94,4177,6341 tasu 1 tasu 2 tasu 14,1358,1107 tasu 1 tasu 78,5116,6834 kakeru 81,9783,1793 kakeru K kakeru K kakeru 18,1462,3738 kakeru K tasu K kakeru 3 kakeru 2 tasu K tasu K kakeru 38,5158,3258 kakeru K kakeru 53,5550,5783 tasu 78,6714,7988 kakeru 3 kakeru 3 tasu 40,6668,5011 tasu K tasu K tasu 1 tasu 66,9641,9914 kakeru 79,2152,6607 kakeru 39,2345,2274 tasu 1 tasu K tasu 1 kakeru 36,2953,9242 tasu 1 kakeru 93,2516,1579 kakeru 18,4722,9895 kakeru 76,2680,0704 tasu 42,9820,8861 tasu K tasu 3 tasu 2 tasu 3,4582,4286 kakeru K tasu 3 kakeru 3 tasu 2 tasu K kakeru 2 tasu K tasu 61,5347,2115 tasu 38,8512,5411 tasu 37,0809,0294 tasu 1 tasu 81,6611,2959 kakeru 1 tojikakko de aru .
+kaikakko K tasu ee tojikakko o print suru .
+Iq wa moji-retsu de aru .
+K no atai wa K kakeru kaikakko K tojikakko de aru .
+-Boğaziçi- o print suru .
+Puroguramu o oware .

@@ -1,0 +1,12 @@
+Puroguramu o hajimeyo .
+1 o print suru .
+52,2445,1069 o print suru .
+73,4313,4355 kakeru 77,7855,8383 o print suru .
+kaikakko 47,5825,8710 tojikakko o print suru .
+47,0014,3658 tasu 21,8725,4581 o print suru .
+2456,5409 o print suru .
+1 o print suru .
+14,6735,9019 o print suru .
+84,8369,1289 kakeru 96,4855,5630 o print suru .
+3 kakeru 2 o print suru .
+Puroguramu o oware .

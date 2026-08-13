@@ -1,0 +1,12 @@
+Puroguramu o hajimeyo .
+1 o print suru .
+kaikakko 48,1149,4247 tojikakko o print suru .
+18,6637,0371 o print suru .
+82,0352,7538 kakeru 95,6228,7654 o print suru .
+3 kakeru 61,9551,5423 kakeru kaikakko 3,4734,1762 tojikakko kakeru 93,3009,7427 o print suru .
+3,9385,0269 o print suru .
+2 o print suru .
+2 o print suru .
+97,1380,2990 tasu 2 o print suru .
+kaikakko 3 kakeru 78,7159,0659 kakeru 38,4023,2096 tasu 1 kakeru 1 kakeru 26,7505,9285 tasu 2 kakeru 61,4804,3356 kakeru 76,2094,7323 tasu 1 kakeru 2 tasu 24,5379,7042 kakeru 2 tasu 3 tasu 65,8803,1438 tasu 3 kakeru 3 tojikakko tasu 1 tasu kaikakko 3 tasu 2 tojikakko tasu 81,4775,5692 tasu 1 kakeru 44,3567,3059 kakeru kaikakko 1 tojikakko tasu kaikakko 70,6425,2911 kakeru 3 tojikakko kakeru kaikakko 38,1885,8093 tojikakko tasu 2 tasu 49,5690,5109 tasu 29,6990,7770 kakeru 1 tasu kaikakko 2 tojikakko o print suru .
+Puroguramu o oware .

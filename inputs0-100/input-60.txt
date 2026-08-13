@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+Wp wa moji-retsu de aru .
+Wp no atai wa -Joining- de aru .
+-the- o print suru .
+Y wa moji-retsu de aru .
+Y no atai wa 2 kakeru kaikakko -Boğaziçi- tojikakko tasu Wp de aru .
+78,7866,0672 tasu 52,7194,5594 kakeru kaikakko 47,5465,5127 tojikakko o print suru .
+iM wa seisu de aru .
+Wp no atai wa 2 kakeru -University- de aru .
+2 kakeru Y tasu kaikakko Wp tojikakko tasu -Computer- tasu Wp tasu kaikakko 2 kakeru 2 kakeru Wp tojikakko o print suru .
+qr wa seisu de aru .
+Wp no atai wa kaikakko Y tojikakko de aru .
+Wp tasu 2 kakeru -Engineering- o print suru .
+tO wa seisu de aru .
+Wp no atai wa -Department- de aru .
+kaikakko -means- tojikakko o print suru .
+Puroguramu o oware .

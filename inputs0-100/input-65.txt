@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+Le wa seisu de aru .
+Le no atai wa kaikakko 2 kakeru 67,3529,2061 tojikakko de aru .
+2 o print suru .
+dE wa seisu de aru .
+dE no atai wa kaikakko Le tojikakko kakeru Le tasu kaikakko 1 tojikakko kakeru kaikakko 8,8212,0102 tojikakko de aru .
+-Joining- o print suru .
+J wa seisu de aru .
+Le no atai wa 9,4921,0623 kakeru 3 kakeru 73,7522,2536 kakeru 37,8636,9727 kakeru kaikakko Le tasu dE tojikakko kakeru kaikakko 1 kakeru 97,3341,3475 kakeru 2 kakeru Le kakeru 3 kakeru Le kakeru Le tasu 3 tasu dE tasu 63,6407,7587 kakeru 97,9092,9941 kakeru 2 kakeru Le kakeru 92,4054,9619 tasu 1 kakeru dE tasu Le kakeru dE kakeru 2 tasu dE tasu 29,1684,3043 tasu Le kakeru Le kakeru 1 tasu 67,9031,3595 tasu 94,8450,8610 tasu dE tasu 1 tasu 2 kakeru 52,6364,0926 kakeru dE kakeru 2 kakeru Le kakeru 1 tasu Le tasu dE tasu dE kakeru dE tasu dE kakeru dE tasu 1 tasu 1 tasu 1 tasu 44,5994,5429 kakeru dE kakeru dE tasu 76,1437,5969 tasu Le tasu dE kakeru 84,1662,4541 kakeru 1 kakeru 3 tasu dE kakeru dE tasu dE tasu dE tasu 87,0501,3966 kakeru 3 kakeru Le tasu dE tasu dE tasu 41,8962,6153 tasu 1 tasu Le kakeru 45,8127,1265 kakeru 1 tasu dE tasu 2 tasu Le tasu 1 tojikakko de aru .
+-the- tasu 2 kakeru 2 kakeru 2 kakeru kaikakko -Boğaziçi- tasu 2 kakeru -University- tojikakko tasu 2 kakeru 2 kakeru -Computer- tasu -Engineering- o print suru .
+nO wa seisu de aru .
+J no atai wa kaikakko dE tojikakko kakeru dE kakeru Le kakeru kaikakko 18,9272,2878 tasu 2 tasu Le tasu 2 kakeru 2 tojikakko tasu Le kakeru dE de aru .
+2 kakeru kaikakko J tojikakko o print suru .
+tj wa moji-retsu de aru .
+tj no atai wa -Department- de aru .
+2 kakeru tj o print suru .
+Puroguramu o oware .

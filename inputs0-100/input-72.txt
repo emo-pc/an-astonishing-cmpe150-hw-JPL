@@ -1,0 +1,17 @@
+Puroguramu o hajimeyo .
+Ky wa moji-retsu de aru .
+Ky no atai wa kaikakko -Joining- tasu -the- tojikakko de aru .
+62,7984,1143 tasu 1 o print suru .
+OJ wa seisu de aru .
+Ky no atai wa kaikakko 2 kakeru -Boğaziçi- tojikakko de aru .
+kaikakko 30,5078,8392 tasu 29,3456,5414 kakeru 17,7628,8508 tojikakko kakeru 2 o print suru .
+hF wa seisu de aru .
+Ky no atai wa Ky tasu 2 kakeru -University- de aru .
+kaikakko -Computer- tojikakko tasu Ky tasu kaikakko Ky tojikakko o print suru .
+KQ wa moji-retsu de aru .
+hF no atai wa 1,3233,6381 de aru .
+-Engineering- tasu 2 kakeru kaikakko 2 kakeru 2 kakeru -Department- tojikakko o print suru .
+f wa seisu de aru .
+f no atai wa kaikakko 2 tasu 2,6266,2166 kakeru 3 tasu 95,8150,7180 tasu 51,5416,6268 kakeru 39,4199,5415 kakeru 39,3906,1376 kakeru hF kakeru 33,2054,9987 tasu hF tasu 43,3842,4098 kakeru 91,7670,1783 tasu 81,4654,0257 tasu 2 tasu 3 kakeru 3 tasu 3 kakeru 1 kakeru 19,8107,8904 kakeru 99,7061,8309 kakeru 50,4861,9195 kakeru 97,9030,0813 tojikakko de aru .
+57,8948,3749 o print suru .
+Puroguramu o oware .
