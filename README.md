@@ -115,3 +115,9 @@ The compiler enforces strict 4-digit boundary checks for integers, mirroring tra
    ```bash
    python3 hw5.py -execute object.obj output.txt
    ```
+## 👤 Author
+
+**Emre Ezgü**  
+- **University:** Bogazici University — Computer Engineering
+- **Course:** CMPE 150 — Introduction to Computing
+- **GitHub:** [@emo-pc](https://github.com/emo-pc)
