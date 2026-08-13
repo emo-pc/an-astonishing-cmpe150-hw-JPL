@@ -4,7 +4,7 @@
 ![Compiler Architecture](https://img.shields.io/badge/Domain-Compiler_Design-orange?style=for-the-badge)
 ![Zero Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=for-the-badge)
 
-A fully functional 2-stage compiler and execution engine built from scratch in Python for **JPL (Japanese Programming Language)**. Developed for **Boğaziçi University CMPE 150**.
+A fully functional 2-stage compiler and execution engine built from scratch in Python for **JPL (Japanese Programming Language)**. Developed for **Bogazici University CMPE 150**.
 
 This project was developed under **extreme technical constraints**: No `eval()` functions, no Regular Expressions (regex), no `try...except` blocks, and no external parsing libraries. The entire lexical analysis, syntax parsing, Abstract Syntax Tree (AST) evaluation, and binary serialization were built using only primitive Python control structures.
 
