@@ -117,7 +117,10 @@ The compiler enforces strict 4-digit boundary checks for integers, mirroring tra
    ```
 ## 👤 Author
 
+<a href="https://github.com/emo-pc">
+  <img src="yakisikli.png" width="150" align="right" alt="Emre Ezgü Ghibli Portrait">
+</a>
+
 **Emre Ezgü**  
 - **University:** Bogazici University — Computer Engineering
-- **Course:** CMPE 150 — Introduction to Computing
 - **GitHub:** [@emo-pc](https://github.com/emo-pc)
