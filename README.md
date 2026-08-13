@@ -56,7 +56,7 @@ The tool operates via a two-step command-line interface:
 ### Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/emo-pc/jpl-compiler.git](https://github.com/emo-pc/an-astonishing-cmpe150-hw-JPL.git)
+   git clone [https://github.com/emo-pc/an-astonishing-cmpe150-hw-JPL.git](https://github.com/emo-pc/an-astonishing-cmpe150-hw-JPL.git)
    cd an-astonishing-cmpe150-hw-JPL
    ```
 
